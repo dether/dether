@@ -6,10 +6,11 @@
 - 🔭 I am currently working with a team developing an application **Facil Market**
 
 - I'm currently polishing **Typescript and Redux Toolkit**
+- 
+<h3 align="left">Connect with me:</h3>
 
 - 📧 Email: **dether2011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
