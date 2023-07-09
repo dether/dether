@@ -3,10 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dether&label=Profile%20views&color=0e75b6&style=flat" alt="dether" /> </p>
 
+<h3 align="left">What I do?</h3>
+
 - 🔭 I am currently working with a team developing an application **Facil Market**
 
-- I'm currently polishing **Typescript and Redux Toolkit**
+- 👨🏽‍💻 I'm currently polishing **Typescript and Redux Toolkit**
 - 
+<h3 align="left">That I am looking for?</h3>
+
+- 🤝 I am looking to collaborate with other developers and work as a team.
 <h3 align="left">Connect with me:</h3>
 
 - 📧 Email: **dether2011@gmail.com**
