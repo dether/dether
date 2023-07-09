@@ -14,8 +14,11 @@
 - 🤝 I am looking to collaborate with other developers and work as a team.
 <h3 align="left">Connect with me:</h3>
 
-- 📧 Email: **dether2011@gmail.com**
-
+- 📧 Email: dether2011@gmail.com
+<p align="left">
+<a href="https://linkedin.com/in/alejandro-gabriel-vargas-b81445267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandro-gabriel-vargas-b81445267" height="30" width="40" /></a>
+<a href="https://discord.gg/naruto49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="naruto49" height="30" width="40" /></a>
+</p>
 <p align="left">
 </p>
 
