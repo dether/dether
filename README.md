@@ -8,7 +8,7 @@
 - 🔭 I am currently working with a team developing an application **Facil Market**
 
 - 👨🏽‍💻 I'm currently polishing **Typescript and Redux Toolkit**
-- 
+
 <h3 align="left">That I am looking for?</h3>
 
 - 🤝 I am looking to collaborate with other developers and work as a team.
