@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">Future Full Stack developer from Chaco</h3>
+<h3 align="center">Future Full Stack developer from Chaco, Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dether" alt="dether" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dether&label=Profile%20views&color=0e75b6&style=flat" alt="dether" /> </p>
 
-<h3 align="left">What I do?</h3>
+<h3 align="left">!¿What I do?</h3>
 
 - 🔭 I am currently working with a team developing an application [Facil Market](https://github.com/adharainfinita/facil-market-proyect)
 
 - 👨🏽‍💻 I'm currently polishing **Typescript and Redux Toolkit**
 
-<h3 align="left">That I am looking for?</h3>
+<h3 align="left">¿That I am looking for?</h3>
 
 - 🤝 I am looking to collaborate with other developers and work as a team.
 <h3 align="left">Connect with me:</h3>
