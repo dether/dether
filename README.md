@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dether" alt="dether" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dether&label=Profile%20views&color=0e75b6&style=flat" alt="dether" /> </p>
 
-<h3 align="left">!¿What I do?</h3>
+<h3 align="left">¿What I do?</h3>
 
 - 🔭 I am currently working with a team developing an application [Facil Market](https://github.com/adharainfinita/facil-market-proyect)
 
